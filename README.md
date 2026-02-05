@@ -50,7 +50,7 @@ Durante o desenvolvimento deste projeto, pratiquei:
 
 ## 📸 Preview
 
-![CalculadoraDev](./screenshot.png)
+<img alt="CalculadoraDev" src="https://github.com/bm-santiago/projeto-calculadora/blob/dd79270ccb07d6138920d1e6c6a6b49dedf0e156/assets/093443.png"/>
 
 ---
 
